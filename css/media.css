@@ -1,0 +1,55 @@
+@media (max-width:1024px){
+    .banner_content h1 {
+        font-size: 35px;
+    }
+    .contact_number h5 {
+        font-size: 19px;
+    }
+    header{
+        padding: 20px 0;
+    }
+   
+}
+@media (max-width:768px){
+    .banner_content h1 {
+        font-size: 35px;
+    }
+    .top_headersss{
+        display: inherit;
+    }
+    .top_header{
+        display: none;
+    }
+    .nav_11111{
+        display: none;
+    }
+    .top_header_contend {
+        display: flex;
+        text-align: left;
+        align-items: center;
+    }
+    .banner_content h2 {
+        font-size: 32px;
+        margin: 20px 0;
+    }
+    .banner_content h1 {
+        font-size: 25px;
+    }
+    .btn_book {
+        margin: 20px 0px;
+    }
+    .dentel_content_1 p {
+        font-size: 14px;
+    }
+    .input_section input {
+        padding: 0;
+    }
+    .btn_sign {
+        color: #1b1b1b;
+        border: 1px solid #f69165;
+        padding: 0;
+        border-radius: 0;
+        background-color: #f69165;
+        transition: .4s all ease-in-out;
+    }
+}
